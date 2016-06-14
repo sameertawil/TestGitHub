@@ -5,5 +5,9 @@ Today (June 13, 2016) I started doing some more research on JSP. I updated a few
 
 I am now starting to get the hang of things thanks to my mentors. I will keep updating this file daily so I can keep it up to date!
 
-Today (June 14, 2016) I was able to download JSPWiki and MAVEN on my machine. 
+=============================================================================
 
+
+Today (June 14, 2016) I was able to install MAVEN and JSPWiki on my machine. I had a few errors with JSPWiki that I was not able to resolve. Also, after waiting for hours I was able to clone OpenOffice, but I am still waiting to find a way to install it. I tried a few commands but I was not successful with my installation attempt. 
+
+=============================================================================
