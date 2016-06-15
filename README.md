@@ -7,7 +7,12 @@ I am now starting to get the hang of things thanks to my mentors. I will keep up
 
 =============================================================================
 
-
 Today (June 14, 2016) I was able to install MAVEN and JSPWiki on my machine. I had a few errors with JSPWiki that I was not able to resolve. Also, after waiting for hours I was able to clone OpenOffice, but I am still waiting to find a way to install it. I tried a few commands but I was not successful with my installation attempt. 
+
+=============================================================================
+
+Today (June 15th, 2016) I gained even more knowledge. I learned the difference between .jar and .war files, 
+learned how to install maven and jspwiki using git and install openOffice. I also installed notepad++, chrome,
+and 7zip. 
 
 =============================================================================

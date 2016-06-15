@@ -1,0 +1,21 @@
+Today (June 15th, 2016) I gained even more knowledge. I learned the difference between .jar and .war files, 
+learned how to install maven and jspwiki using git and install openOffice. I also installed notepad++, chrome,
+and 7zip. 
+
+Notes:
+Jar vs War files
+
+	Java Archives (JAR) are files that contain libraries, resources and accessories files like property files. 
+	
+	Web Archives (WAR) are files that contain the web application that can be deployed on any servlet/jsp container. 
+	The war file contains jsp, html, javascript and other files necessary for the development of web apps. 
+
+How to convert word to wiki?
+
+	After reading some articles online on how to convert doc files to wiki, I came to conclude that there are a few 
+	things we can do. Those include using the mediaWiki add-in for word which helps us save the files as a wiki type, 
+	or we can save our doc file as an html file and conevert it to wiki using some kind of converter such as Universal Wiki Converter, 
+	or we can use OpenOffice to convert the doc but first we have to download the Sun-publisher add-in for OpenOffice so 
+	that we are able to save files as MediaWiki type. 
+
+	
