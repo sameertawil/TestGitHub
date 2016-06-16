@@ -18,4 +18,9 @@ How to convert word to wiki?
 	or we can use OpenOffice to convert the doc but first we have to download the Sun-publisher add-in for OpenOffice so 
 	that we are able to save files as MediaWiki type. 
 
+Today (June 16th, 2016) I finally started working more on wiki. I started converting the big doc file that was assigned to 
+us to the wiki page. I enjoyed working with wiki because I gained more knowledge on how to use wiki and learned the syntax 
+that is being used on there. I did not get the whole doc file converted but I plan on finishing it tomorrow. The plan for 
+tomorrow is to get that wiki file done and the OpenOffice installed using git.  
+
 	

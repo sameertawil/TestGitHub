@@ -16,3 +16,8 @@ learned how to install maven and jspwiki using git and install openOffice. I als
 and 7zip. 
 
 =============================================================================
+
+Today (June 16th, 2016) I finally started working more on wiki. I started converting a big doc file that was assigned to us to the wiki page. I enjoyed working with wiki because I gained more knowledge on how to use wiki and learned the syntax that is being used on there. I was not able to finish converting the whole doc file but I plan on doing that tomorrow. The plan for tomorrow is to get that wiki file done and the OpenOffice installed using git. 
+
+=============================================================================
+
