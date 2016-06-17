@@ -21,3 +21,8 @@ Today (June 16th, 2016) I finally started working more on wiki. I started conver
 
 =============================================================================
 
+
+Today (June 17th, 2016) We were finally able to finish converting the whole document to wiki. It took us a while to get it done but we managed. This conversion helped us tremendously. This is because we learned more about wiki synatx. We also started looking for ways we can convert a doc file to wiki without doing it manually. Also, we are still trying to install OpenOffice using git. However, allI found was commands for Lunix and not for Windows. 
+
+
+
