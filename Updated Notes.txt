@@ -28,4 +28,6 @@ done but we managed. This conversion helped us tremendously. This is because we 
 started looking for ways we can convert a doc file to wiki without doing it manually. Also, we are still trying to install 
 OpenOffice using git. However, all I found was commands for Lunix and not for Windows. 
 
-Today (June 18th, 2016) This is just one of my daily updates. Today is my day off so I am not planning to do anything. 	
+Today (June 18th, 2016) This is just one of my daily updates. Today is my day off so I am not planning to do anything.
+
+(June 19th, 2016) - none
