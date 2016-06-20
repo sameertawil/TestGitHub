@@ -1,3 +1,1 @@
-Just an update.
-
-This is Samir contributing to your repo. Testing if this works.
+Testing git and gitHub for practice purposes.

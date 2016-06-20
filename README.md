@@ -36,3 +36,4 @@ Today (June 17th, 2016) We were finally able to finish converting the whole docu
 
 =============================================================================
 
+(June 20th, 2016) - Today I edited and created a few wiki pages on our site. I also began searching for code to convert from a word doc to mediaWiki. Tomorrow I have to convert some more documents on our wiki site. This helps me practice and learn more wiki synatax.  
