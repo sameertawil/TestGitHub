@@ -43,3 +43,10 @@ Today (June 17th, 2016) We were finally able to finish converting the whole docu
 (June 21st, 2016) - More wiki pages created and edited. I learned more wiki syntax especially tables. We still have more pages to create on the wiki site. 
 
 =============================================================================
+
+(June 22, 2016) - We were able to finish all the document that were given to us and converted them to wiki. It took us a 
+while to do it because of all the tables that were on the document. After doing these documents, we now understand how
+wiki works. 
+
+=============================================================================
+
