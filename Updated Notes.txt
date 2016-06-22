@@ -34,4 +34,10 @@ Today (June 18th, 2016) This is just one of my daily updates. Today is my day of
 
 (June 20th, 2016) - none.
 
-(June 21st, 2016) - More wiki pages created and edited. Learned more wiki syntax, especially tables. We still have more documents to create on wiki. 
+(June 21st, 2016) - I spent most of my day converting documents to wiki. In addition, more wiki pages created and edited.
+I learned more wiki syntax, especially tables. We still have more documents to work on tomorrow. 
+documents to create on wiki. 
+
+(June 22, 2016) - We were able to finish all the document that were given to us and converted them to wiki. It took us a 
+while to do it because of all the tables that were on the document. After doing these documents, we now understand how
+wiki works. 
