@@ -50,3 +50,6 @@ wiki works.
 
 =============================================================================
 
+(June 23, 2016) - Today we spent most of our day just looking over and modifying wiki pages. We also spent a good amount of time on practicing Java code using eclipse. We still need more practice on eclipse because we have not had to use it in a while. Tomorrow we will do more on eclipse and try to write some more code and get used to it better. 
+
+===============================================================================
