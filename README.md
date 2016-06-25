@@ -57,3 +57,9 @@ wiki works.
 (June 24, 2016) - Today I was able to clone the JSPWIKI script on my laptop. I kept looking over it that script so I can get an idea about how it works. It looks a little bit complicated because the script has some errors in it. I am still waiting to get the Microsoft wikiMedia add-in for word. This will help convert word documents to wiki easily instead of having to conveert them manually. 
 
 ===============================================================================
+
+(June 25, 2016) - None.
+
+===============================================================================
+
+
