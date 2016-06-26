@@ -52,7 +52,9 @@ while to do it because of all the tables that were on the document. After doing 
 time on practicing Java code using eclipse. We still need more practice on eclipse because we have not had to use it in a 
 while. Tomorrow we will do more on eclipse and try to write some more code and get used to it better. 
 
-(June 24, 2016) - Today I was able to clone the JSPWIKI script on my laptop. I kept looking over it that script so I can get an 
-idea about how it works. It looks a little bit complicated because the script has some errors in it. I am still waiting to get
-Microsoft wikiMedia add-in for word. This will help convert word documents to wiki easily instead of having to conveert them
-manually. 
+(June 24, 2016) - Today I was able to clone the JSPWIKI script on my laptop. I kept looking over it that script so I can get an idea about how it works. It looks a little bit complicated because the script has some errors in it. I am still waiting to get Microsoft wikiMedia add-in for word. This will help convert word documents to wiki easily instead of having to conveert them manually. 
+
+(June 25, 2016) - none.
+
+(June 25, 2016) - none.
+
