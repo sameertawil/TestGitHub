@@ -66,4 +66,12 @@ wiki works.
 
 ===============================================================================
 
+(June 27, 2016) - Today we were able to use the wikiMedia extension for office.
+That add-in really helps with converting the documents to wiki. I also worked a
+little more on Java and practiced some code. I am still looking for the mediaWik
+i extension source code to see if we can fix it to make it compatible with our w
+iki site.
+
+===============================================================================
+
 
