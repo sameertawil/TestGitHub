@@ -74,4 +74,10 @@ iki site.
 
 ===============================================================================
 
+(June 28, 2016) - Today we spent most of our day just modifying wiki pages on ou
+r site, as well as practicing some java code using eclipse editor. We are waitin
+g on more documents to convert to wiki using our new extension for office. It re
+ally comes in handy.
+
+===============================================================================
 
