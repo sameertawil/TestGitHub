@@ -81,3 +81,8 @@ ally comes in handy.
 
 ===============================================================================
 
+(June 29, 2016) - Today we spent our day converting more documents to our wiki p
+age. We also looked over some code and tried to understand it but it is pretty difficult to grasp the first time. We were not at work all day because we had an intern event that we had to attend.
+
+===============================================================================
+

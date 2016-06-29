@@ -60,4 +60,6 @@ while. Tomorrow we will do more on eclipse and try to write some more code and g
 
 (June 27, 2016) - Today we were able to use the wikiMedia extension for office. That add-in really helps with converting the documents to wiki. I also worked a little more on Java and practiced some code. I am still looking for the mediaWiki extension source code to see if we can fix it to make it compatible with our wiki site.
 
-(June 28, 2016) - Today we spent most of our day just modifying wiki pages on our site, as well as practicing some java code using eclipse editor. We are waiting on more documents to convert to wiki using our new extension for office. It really comes in handy. 
+(June 28, 2016) - Today we spent most of our day just modifying wiki pages on our site, as well as practicing some java code using eclipse editor. We are waiting on more documents to convert to wiki using our new extension for office. It really comes in handy.
+
+(June 29, 2016) - Today we spent our day converting more documents to our wiki page. We also looked over some code and tried to understand it but it is pretty difficult to grasp the first time. We were not at work all day because we had an intern event that we had to attend. 
