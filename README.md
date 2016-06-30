@@ -86,3 +86,8 @@ age. We also looked over some code and tried to understand it but it is pretty d
 
 ===============================================================================
 
+(June 30, 2016) - Today I was able to convert a lot of documents to our wiki pag
+e. I also gained some knowledge about regular expressions. Those can be used to
+help with the conversion process.
+
+===============================================================================
