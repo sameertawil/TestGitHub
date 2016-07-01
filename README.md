@@ -91,3 +91,8 @@ e. I also gained some knowledge about regular expressions. Those can be used to
 help with the conversion process.
 
 ===============================================================================
+
+(July 1, 2016) - Today I spent my day learning more wiki syntax. I alos created
+and converted a lot of documents to our wiki page. It is really good practice fo
+r us.
+===============================================================================
