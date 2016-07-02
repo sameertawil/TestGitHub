@@ -95,4 +95,11 @@ help with the conversion process.
 (July 1, 2016) - Today I spent my day learning more wiki syntax. I alos created
 and converted a lot of documents to our wiki page. It is really good practice fo
 r us.
+
 ===============================================================================
+
+(July 2, 2016) - None.
+
+===============================================================================
+
+
