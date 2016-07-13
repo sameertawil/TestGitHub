@@ -86,3 +86,5 @@ while. Tomorrow we will do more on eclipse and try to write some more code and g
 
 (July 12, 2016) - More knowledge on git and its commands.
 
+(July 13, 2016) - More search on MediaWiki and Curl commands.
+
