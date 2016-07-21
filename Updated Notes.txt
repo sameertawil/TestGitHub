@@ -89,3 +89,5 @@ while. Tomorrow we will do more on eclipse and try to write some more code and g
 (July 13, 2016) - More search on MediaWiki and Curl commands.
 
 (July 14, 2016) -none.
+
+(July 21, 2016) - Was able to clone the Universal wiki converter on my machine. I am now working on converting an ANT build.xml file to a MAVEN pom.xml file. 
