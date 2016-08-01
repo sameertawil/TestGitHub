@@ -90,4 +90,10 @@ while. Tomorrow we will do more on eclipse and try to write some more code and g
 
 (July 14, 2016) -none.
 
-(July 21, 2016) - Was able to clone the Universal wiki converter on my machine. I am now working on converting an ANT build.xml file to a MAVEN pom.xml file. 
+(July 21, 2016) - Was able to clone the Universal wiki converter on my machine. I am now working on converting an ANT build.xml file to a MAVEN pom.xml file.
+
+(July 15 - July 31 2016) - Converted an ANT build file to a Pom XML file. Also worked on some intrusion testing.
+
+(August 1 - August 5, 2016) - Last week at the internship!!
+
+
